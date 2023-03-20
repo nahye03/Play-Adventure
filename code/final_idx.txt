@@ -1,0 +1,3 @@
+cloth 2
+hat 1
+glasses None
