@@ -1,4 +1,5 @@
 # Play-Adventure
+>AI 기술을 활용한 감정표현 발달을 위한 연극 교육 프로그램
 
 ## Table of Contents
 1. 주요기술
